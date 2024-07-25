@@ -1,0 +1,34 @@
+# Node modules
+node_modules/
+
+# Output directories
+dist/
+build/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# TypeScript cache
+*.tsbuildinfo
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Optional npm cache directory
+.npm
+
+# TypeScript definition files
+typings/
+
+# Coverage directory used by tools like istanbul
+coverage/
